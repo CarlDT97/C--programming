@@ -1,0 +1,17 @@
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\bin\Debug\net6.0-windows\WindowA3.exe
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\bin\Debug\net6.0-windows\WindowA3.deps.json
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\bin\Debug\net6.0-windows\WindowA3.runtimeconfig.json
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\bin\Debug\net6.0-windows\WindowA3.dll
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\bin\Debug\net6.0-windows\WindowA3.pdb
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.csproj.AssemblyReference.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.Form1.resources
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.csproj.GenerateResource.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.GeneratedMSBuildEditorConfig.editorconfig
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.AssemblyInfoInputs.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.AssemblyInfo.cs
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.csproj.CoreCompileInputs.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.dll
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\refint\WindowA3.dll
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.pdb
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\WindowA3.genruntimeconfig.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\WindowA3\obj\Debug\net6.0-windows\ref\WindowA3.dll

@@ -1,0 +1,17 @@
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\bin\Debug\net6.0-windows\A1.exe
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\bin\Debug\net6.0-windows\A1.deps.json
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\bin\Debug\net6.0-windows\A1.runtimeconfig.json
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\bin\Debug\net6.0-windows\A1.dll
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\bin\Debug\net6.0-windows\A1.pdb
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.csproj.AssemblyReference.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.Form1.resources
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.csproj.GenerateResource.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.GeneratedMSBuildEditorConfig.editorconfig
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.AssemblyInfoInputs.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.AssemblyInfo.cs
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.csproj.CoreCompileInputs.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.dll
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\refint\A1.dll
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.pdb
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\A1.genruntimeconfig.cache
+\\ltuglbctxfile05.file.core.windows.net\ctxredirects\dahcar-4\Documents\Programming\A1\obj\Debug\net6.0-windows\ref\A1.dll

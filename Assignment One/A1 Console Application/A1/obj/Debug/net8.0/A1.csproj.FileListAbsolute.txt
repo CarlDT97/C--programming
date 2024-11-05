@@ -1,0 +1,42 @@
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/bin/Debug/net8.0/A1
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/bin/Debug/net8.0/A1.deps.json
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/bin/Debug/net8.0/A1.runtimeconfig.json
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/bin/Debug/net8.0/A1.dll
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/bin/Debug/net8.0/A1.pdb
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.AssemblyInfoInputs.cache
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.AssemblyInfo.cs
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.csproj.CoreCompileInputs.cache
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.dll
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/refint/A1.dll
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.pdb
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/A1.genruntimeconfig.cache
+/Users/carldahlqvistthuresson/RiderProjects/A1/A1/obj/Debug/net8.0/ref/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/bin/Debug/net8.0/A1
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/bin/Debug/net8.0/A1.deps.json
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/bin/Debug/net8.0/A1.runtimeconfig.json
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/bin/Debug/net8.0/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/bin/Debug/net8.0/A1.pdb
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.AssemblyInfoInputs.cache
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.AssemblyInfo.cs
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.csproj.CoreCompileInputs.cache
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/refint/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.pdb
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/A1.genruntimeconfig.cache
+/Users/carldahlqvistthuresson/Developer/C# kursen/A1 Console Application/A1/obj/Debug/net8.0/ref/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/bin/Debug/net8.0/A1
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/bin/Debug/net8.0/A1.deps.json
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/bin/Debug/net8.0/A1.runtimeconfig.json
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/bin/Debug/net8.0/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/bin/Debug/net8.0/A1.pdb
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.AssemblyInfoInputs.cache
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.AssemblyInfo.cs
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.csproj.CoreCompileInputs.cache
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/refint/A1.dll
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.pdb
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/A1.genruntimeconfig.cache
+/Users/carldahlqvistthuresson/Developer/C# kursen/Assignment One/A1 Console Application/A1/obj/Debug/net8.0/ref/A1.dll

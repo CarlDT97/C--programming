@@ -1,0 +1,25 @@
+[{
+  "Name": "Carl",
+  "PersonNumber": 199702021438,
+  "District": "Lund",
+  "SoldArticles": 175,
+  "Level": 3
+},{
+  "Name": "David",
+  "PersonNumber": 19990101138,
+  "District": "Lund",
+  "SoldArticles": 51,
+  "Level": 2
+},{
+  "Name": "Carlle",
+  "PersonNumber": 9702021438,
+  "District": "Malmo",
+  "SoldArticles": 100,
+  "Level": 3
+},{
+  "Name": "Carl",
+  "PersonNumber": 9702021438,
+  "District": "Malm\u00F6",
+  "SoldArticles": 200,
+  "Level": 4
+}]
